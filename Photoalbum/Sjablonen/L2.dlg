@@ -1,0 +1,50 @@
+AxForm v1.0
+Begin Form
+   Name = "AxForm"
+   Text = "New Dialog"
+   Height = 8130
+   Left = 2685
+   Width = 7770
+   Top = 2685
+End
+Begin Label
+   Name = "Label_1"
+   Text = "Klik om tekst toe te voegen"
+   Height = 660
+   Left = 510
+   Width = 6510
+   Top = 810
+End
+Begin Label
+   Name = "Label_2"
+   Text = "Klik om tekst toe te voegen"
+   Height = 285
+   Left = 510
+   Width = 3210
+   Top = 5910
+End
+Begin Label
+   Name = "Label_3"
+   Text = "Klik om tekst toe te voegen"
+   Height = 285
+   Left = 3780
+   Width = 3210
+   Top = 5910
+End
+Begin Picturebox
+   Name = "Picture_1"
+   Text = """"""""
+   Height = 4260
+   Left = 510
+   Width = 3210
+   Top = 1560
+End
+Begin Picturebox
+   Name = "Picture_2"
+   Text = """"""""""
+   Height = 4260
+   Left = 3780
+   Width = 3210
+   Top = 1560
+End
+
