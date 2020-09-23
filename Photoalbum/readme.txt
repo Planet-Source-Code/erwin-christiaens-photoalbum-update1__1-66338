@@ -1,0 +1,1 @@
+Update Photoalbum. Thumbnail your pages to easy view page. You can create an album page using one of the many available template layouts. Just select an album page layout, put pictures into the cells, add text,You’ll quickly have an array of album pages that You can use as slide show presentations with different effects in a new window. Please leave your comments, thanks 

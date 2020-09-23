@@ -1,0 +1,34 @@
+AxForm v1.0
+Begin Form
+   Name = "AxForm"
+   Text = "New Dialog"
+   Height = 8130
+   Left = 3315
+   Width = 7845
+   Top = 1110
+End
+Begin Picturebox
+   Name = "Picture_1"
+   Text = ""
+   Height = 3480
+   Left = 90
+   Width = 3690
+   Top = 210
+End
+Begin Picturebox
+   Name = "Picture_2"
+   Text = """"
+   Height = 3480
+   Left = 120
+   Width = 3690
+   Top = 3870
+End
+Begin Picturebox
+   Name = "Picture_3"
+   Text = """"""
+   Height = 7140
+   Left = 3870
+   Width = 3540
+   Top = 210
+End
+

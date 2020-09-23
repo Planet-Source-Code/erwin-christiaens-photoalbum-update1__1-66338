@@ -1,0 +1,18 @@
+AxForm v1.0
+Begin Form
+   Name = "AxForm"
+   Text = "New Dialog"
+   Height = 8130
+   Left = 2685
+   Width = 7845
+   Top = 2685
+End
+Begin Label
+   Name = "Label_1"
+   Text = ""
+   Height = 7350
+   Left = 120
+   Width = 7320
+   Top = 90
+End
+
